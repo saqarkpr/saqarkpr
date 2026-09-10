@@ -1,10 +1,11 @@
-[saqarkpr-github-profile-README.md](https://github.com/user-attachments/files/32030701/saqarkpr-github-profile-README.md)
+[saqarkpr-github-profile-README_2.md](https://github.com/user-attachments/files/32030764/saqarkpr-github-profile-README_2.md)
 # 👋 Hi, I'm Saghar (@saqarkpr)
 
 ## 🤖 I work at the intersection of RL, symbolic reasoning, and LLMs
 
 I'm applying to PhD positions in Europe in NLP, LLM training, and reinforcement learning, while building toward LLM/ML engineering roles in parallel. My M.Sc. thesis used symbolic reinforcement learning (DQN) to solve Fredholm integral equations, and most of what's in this portfolio grows out of that idea: treating a hard problem as a sequence of decisions with a verifiable, non-human reward signal, whether the domain is symbolic math, attention mechanisms, or reading behavior.
 
+- 🎓 B.Sc. Electrical Engineering (Telecommunications), Shahid Beheshti University
 - 🎓 M.Sc. Computer Science (Algorithms & Theory of Computation), Shahid Beheshti University
 - 🔭 Building a from-scratch PyTorch research portfolio, one honestly-reported result at a time (including the negative ones)
 - 🌍 Based in Iran, applying to PhD programs across Europe
