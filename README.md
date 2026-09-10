@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Saghar (@saqarkpr)
+# 👋 Hi, I'm Saghar Khalilpour (@saqarkpr)
 
 ## 🤖 I work at the intersection of RL, symbolic reasoning, and LLMs
 
