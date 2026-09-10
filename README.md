@@ -7,8 +7,7 @@ My M.Sc. thesis used symbolic reinforcement learning (DQN) to solve Fredholm int
 
 - 🎓 B.Sc. Electrical Engineering (Telecommunications), Shahid Beheshti University
 - 🎓 M.Sc. Computer Science (Algorithms & Theory of Computation), Shahid Beheshti University
-- 🔭 Building a from-scratch PyTorch research portfolio, one honestly-reported result at a time (including the negative ones)
-- 🌍 Based in Iran
+
 
 ## 🔬 Research Interests
 
