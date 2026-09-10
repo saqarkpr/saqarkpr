@@ -1,14 +1,14 @@
-[saqarkpr-github-profile-README_2.md](https://github.com/user-attachments/files/32030764/saqarkpr-github-profile-README_2.md)
+[saqarkpr-github.md](https://github.com/user-attachments/files/32030868/saqarkpr-github.md)
 # 👋 Hi, I'm Saghar (@saqarkpr)
 
 ## 🤖 I work at the intersection of RL, symbolic reasoning, and LLMs
 
-I'm applying to PhD positions in Europe in NLP, LLM training, and reinforcement learning, while building toward LLM/ML engineering roles in parallel. My M.Sc. thesis used symbolic reinforcement learning (DQN) to solve Fredholm integral equations, and most of what's in this portfolio grows out of that idea: treating a hard problem as a sequence of decisions with a verifiable, non-human reward signal, whether the domain is symbolic math, attention mechanisms, or reading behavior.
+My M.Sc. thesis used symbolic reinforcement learning (DQN) to solve Fredholm integral equations, and most of what's in this portfolio grows out of that idea: treating a hard problem as a sequence of decisions with a verifiable, non-human reward signal, whether the domain is symbolic math, attention mechanisms, or reading behavior.
 
 - 🎓 B.Sc. Electrical Engineering (Telecommunications), Shahid Beheshti University
 - 🎓 M.Sc. Computer Science (Algorithms & Theory of Computation), Shahid Beheshti University
 - 🔭 Building a from-scratch PyTorch research portfolio, one honestly-reported result at a time (including the negative ones)
-- 🌍 Based in Iran, applying to PhD programs across Europe
+- 🌍 Based in Iran
 
 ## 🔬 Research Interests
 
@@ -39,25 +39,21 @@ I'm applying to PhD positions in Europe in NLP, LLM training, and reinforcement 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-## 🌱 Currently Learning
-
-![Docker](https://img.shields.io/badge/Docker-lightgrey?style=flat-square&logo=docker&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-lightgrey?style=flat-square&logo=kubernetes&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-lightgrey?style=flat-square&logo=fastapi&logoColor=black)
-![LangGraph](https://img.shields.io/badge/LangGraph-lightgrey?style=flat-square&logoColor=black)
-
-LoRA/QLoRA fine-tuning, RAG and agent frameworks, and cloud deployment, the last stretch of a 12-month roadmap toward production LLM/MLOps work.
-
 ## 📌 Featured Projects
 
 | Project | Highlight |
 |---|---|
 | [Symbolic-RL-Fredholm-Solver](https://github.com/saqarkpr/Symbolic-RL-Fredholm-Solver) | M.Sc. thesis: symbolic RL (DQN) for solving Fredholm integral equations |
-| [verifier-based-preference-optimization](https://github.com/saqarkpr/verifier-based-preference-optimization) | DPO vs. GRPO under an exact programmatic reward: GRPO ahead on 10/10 seeds, visible only under paired analysis |
-| [graph-conditioned-attention](https://github.com/saqarkpr/graph-conditioned-attention) | Graph-conditioned attention in Transformers, including an explicit retraction of a 3-seed finding that reversed at 6 seeds |
-| [stickbreaking-attention-bottleneck](https://github.com/saqarkpr/stickbreaking-attention-bottleneck) | Stick-breaking attention for length generalization: a negative result with its causal diagnosis documented |
+| [transformer-from-scratch](https://github.com/saqarkpr/transformer-from-scratch) | Decoder-only Transformer built from scratch, with reproducible architecture and training-dynamics ablations |
 | [tokenization-ablation-study](https://github.com/saqarkpr/tokenization-ablation-study) | Subword tokenization ablations whose conclusions invert between 500 and 5000 training iterations |
-| [RAG_Eval](https://github.com/saqarkpr/RAG_Eval) | Evaluating retrieval-augmented QA for calibration and hallucination rate, not just accuracy |
+| [stickbreaking-attention-bottleneck](https://github.com/saqarkpr/stickbreaking-attention-bottleneck) | Variational, stick-breaking attention for length generalization: a negative result with its causal diagnosis documented |
+| [graph-conditioned-attention](https://github.com/saqarkpr/graph-conditioned-attention) | Graph-conditioned attention in Transformers, including an explicit retraction of a 3-seed finding that reversed at 6 seeds |
+| [verifier-based-preference-optimization](https://github.com/saqarkpr/verifier-based-preference-optimization) | DPO vs. GRPO under an exact programmatic reward: GRPO ahead on 10/10 seeds, visible only under paired analysis |
+| [RNA-Longrange-Attention](https://github.com/saqarkpr/RNA-Longrange-Attention) | Kernel-biased attention vs. a standard Transformer on synthetic RNA-like base pairing: the gap widens to +10.2pp at the longest sequence lengths |
+| [gaze-rl-reading](https://github.com/saqarkpr/gaze-rl-reading) | DQN agent predicting reading-difficulty struggle points from weak, gaze-derived supervision (F1 0.879); a fused CV variant scored lower, a documented overfitting-to-the-proxy lesson |
+| [RAG_Eval](https://github.com/saqarkpr/RAG_Eval) | Retrieval-augmented QA evaluated for calibration, hallucination rate, and evidence-grounding, not just accuracy |
+| [sci-lit-rag-eval](https://github.com/saqarkpr/sci-lit-rag-eval) | Non-clinical RAG evaluation on a self-built arXiv corpus: swapping retrievers raised hallucination rate from 12.5% to 31.2% at identical recall |
+| [icu-mortality-trustworthy-eval](https://github.com/saqarkpr/icu-mortality-trustworthy-eval) | Trustworthy in-hospital mortality prediction on real PhysioNet ICU data, with calibration and subgroup analysis |
 
 ## 📊 GitHub Stats
 
@@ -65,4 +61,6 @@ LoRA/QLoRA fine-tuning, RAG and agent frameworks, and cloud deployment, the last
 
 ## 📫 Get in Touch
 
-Open to PhD supervision conversations and remote LLM/ML engineering roles. Feel free to open an issue on any repo or reach out here on GitHub.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saghar-khalilpour-098642341)
+
+Feel free to open an issue on any repo, or reach out on GitHub or LinkedIn.
