@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Saghar Khalilpour (@saqarkpr)
+
+# 👋 Hi, I'm Saghar (@saqarkpr)
 
 ## 🤖 I work at the intersection of RL, symbolic reasoning, and LLMs
 
@@ -6,7 +7,6 @@ My M.Sc. thesis used symbolic reinforcement learning (DQN) to solve Fredholm int
 
 - 🎓 B.Sc. Electrical Engineering (Telecommunications), Shahid Beheshti University
 - 🎓 M.Sc. Computer Science (Algorithms & Theory of Computation), Shahid Beheshti University
-
 
 ## 🔬 Research Interests
 
@@ -46,19 +46,19 @@ My M.Sc. thesis used symbolic reinforcement learning (DQN) to solve Fredholm int
 
 ## 📌 Featured Projects
 
-| Project | Highlight |
+| Project | What it is |
 |---|---|
-| [Symbolic-RL-Fredholm-Solver](https://github.com/saqarkpr/Symbolic-RL-Fredholm-Solver) | M.Sc. thesis: symbolic RL (DQN) for solving Fredholm integral equations |
-| [transformer-from-scratch](https://github.com/saqarkpr/transformer-from-scratch) | Decoder-only Transformer built from scratch, with reproducible architecture and training-dynamics ablations |
-| [tokenization-ablation-study](https://github.com/saqarkpr/tokenization-ablation-study) | Subword tokenization ablations whose conclusions invert between 500 and 5000 training iterations |
-| [stickbreaking-attention-bottleneck](https://github.com/saqarkpr/stickbreaking-attention-bottleneck) | Variational, stick-breaking attention for length generalization: a negative result with its causal diagnosis documented |
-| [graph-conditioned-attention](https://github.com/saqarkpr/graph-conditioned-attention) | Graph-conditioned attention in Transformers, including an explicit retraction of a 3-seed finding that reversed at 6 seeds |
-| [verifier-based-preference-optimization](https://github.com/saqarkpr/verifier-based-preference-optimization) | DPO vs. GRPO under an exact programmatic reward: GRPO ahead on 10/10 seeds, visible only under paired analysis |
-| [RNA-Longrange-Attention](https://github.com/saqarkpr/RNA-Longrange-Attention) | Kernel-biased attention vs. a standard Transformer on synthetic RNA-like base pairing: the gap widens to +10.2pp at the longest sequence lengths |
-| [gaze-rl-reading](https://github.com/saqarkpr/gaze-rl-reading) | DQN agent predicting reading-difficulty struggle points from weak, gaze-derived supervision (F1 0.879); a fused CV variant scored lower, a documented overfitting-to-the-proxy lesson |
-| [RAG_Eval/biomedical-rag-eval](https://github.com/saqarkpr/RAG_Eval/tree/main/biomedical-rag-eval) | Retrieval-augmented QA on PubMed evaluated for calibration and grounding, not just accuracy: a classical baseline (~51% accuracy) beats a small LLM on raw accuracy, but the LLM's calibration error quadruples once evidence is added |
-| [RAG_Eval/sci-lit-rag-eval](https://github.com/saqarkpr/RAG_Eval/tree/main/sci-lit-rag-eval) | Non-clinical counterpart on a self-built arXiv NLP corpus: swapping retrievers raised hallucination rate from 12.5% to 31.2% at identical top-5 recall |
-| [icu-mortality-trustworthy-eval](https://github.com/saqarkpr/icu-mortality-trustworthy-eval) | Trustworthy in-hospital mortality prediction on real PhysioNet ICU data, with calibration and subgroup analysis |
+| [Symbolic-RL-Fredholm-Solver](https://github.com/saqarkpr/Symbolic-RL-Fredholm-Solver) | M.Sc. thesis: symbolic RL for solving Fredholm integral equations |
+| [transformer-from-scratch](https://github.com/saqarkpr/transformer-from-scratch) | Causal Transformer and BPE tokenizer built from scratch, with multi-seed ablations |
+| [tokenization-ablation-study](https://github.com/saqarkpr/tokenization-ablation-study) | Ablation studies on subword tokenization and training budget |
+| [stickbreaking-attention-bottleneck](https://github.com/saqarkpr/stickbreaking-attention-bottleneck) | Variational attention bottleneck for length generalization |
+| [graph-conditioned-attention](https://github.com/saqarkpr/graph-conditioned-attention) | Graph-to-graph Transformer for dependency parsing |
+| [verifier-based-preference-optimization](https://github.com/saqarkpr/verifier-based-preference-optimization) | DPO vs. GRPO under an exact programmatic reward |
+| [RNA-Longrange-Attention](https://github.com/saqarkpr/RNA-Longrange-Attention) | Kernel-biased attention for long-range RNA-like base pairing |
+| [gaze-rl-reading](https://github.com/saqarkpr/gaze-rl-reading) | DQN agent predicting reading difficulty from gaze-derived supervision |
+| [RAG_Eval/biomedical-rag-eval](https://github.com/saqarkpr/RAG_Eval/tree/main/biomedical-rag-eval) | Trustworthy RAG evaluation on biomedical QA |
+| [RAG_Eval/sci-lit-rag-eval](https://github.com/saqarkpr/RAG_Eval/tree/main/sci-lit-rag-eval) | Trustworthy RAG evaluation on scientific-literature QA |
+| [icu-mortality-trustworthy-eval](https://github.com/saqarkpr/icu-mortality-trustworthy-eval) | Trustworthy in-hospital mortality prediction on real ICU data |
 
 ## 📫 Get in Touch
 
