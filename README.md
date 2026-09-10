@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Saghar (@saqarkpr)
 
-## 🤖 I work at the intersection of RL, symbolic reasoning, and LLMs
+## 🤖 I work at the intersection of ML, RL, NLP, and LLMs
 
 My M.Sc. thesis used symbolic reinforcement learning (DQN) to solve Fredholm integral equations, and most of what's in this portfolio grows out of that idea: treating a hard problem as a sequence of decisions with a verifiable, non-human reward signal, whether the domain is symbolic math, attention mechanisms, or reading behavior.
 
