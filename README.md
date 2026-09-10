@@ -1,4 +1,4 @@
-[saqarkpr-github.md](https://github.com/user-attachments/files/32030868/saqarkpr-github.md)
+
 # 👋 Hi, I'm Saghar (@saqarkpr)
 
 ## 🤖 I work at the intersection of RL, symbolic reasoning, and LLMs
