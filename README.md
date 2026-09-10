@@ -60,10 +60,6 @@ My M.Sc. thesis used symbolic reinforcement learning (DQN) to solve Fredholm int
 | [RAG_Eval/sci-lit-rag-eval](https://github.com/saqarkpr/RAG_Eval/tree/main/sci-lit-rag-eval) | Non-clinical counterpart on a self-built arXiv NLP corpus: swapping retrievers raised hallucination rate from 12.5% to 31.2% at identical top-5 recall |
 | [icu-mortality-trustworthy-eval](https://github.com/saqarkpr/icu-mortality-trustworthy-eval) | Trustworthy in-hospital mortality prediction on real PhysioNet ICU data, with calibration and subgroup analysis |
 
-## 📊 GitHub Stats
-
-![Saghar's GitHub stats](https://github-readme-stats.vercel.app/api?username=saqarkpr&show_icons=true&hide_border=true&theme=default)
-
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saghar-khalilpour-098642341)
